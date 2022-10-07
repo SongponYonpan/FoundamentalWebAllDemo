@@ -1,0 +1,31 @@
+body {
+  background-color: mistyRose;
+}
+
+h1 {
+	text-align: center;
+	color: lightCoral;
+	background-color: white;
+}
+
+h3 {
+	text-align: left	;
+	color: lightCoral;
+}
+
+
+p{
+	text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: gray;
+  color: white;
+}
+
+img {
+  border-radius: 20%;
+}
+

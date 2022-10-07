@@ -1,0 +1,96 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: black;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  text-align: center;
+  padding: 8px;
+  border: 0.5px solid;
+  border-color: black;
+}
+
+td {
+  height: 50px;
+  width: auto;
+  vertical-align: top;
+}
+
+th {
+  background-color: #056340;
+  color: white;
+  width: auto;
+}
+
+table {
+  border: 2px solid;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tfoot {
+  font-size: 1.5em;
+  color: #f2f2f2;
+  font-weight: 200;
+}
+
+.caption {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 1%;
+}
+
+.container {
+  margin: 2%;
+}
+
+.onlineClass{
+  color:brown;
+}
+
+.onsiteClass{
+  color:blue;
+}
+
+.AppliedWriting{
+  background-color: burlywood;
+}
+
+.InterCommunication{
+  background-color: aquamarine;
+}
+
+.FundamentalWeb{
+  background-color: darkseagreen;
+}
+
+.IntroductionProgramming{
+  background-color: cadetblue;
+}
+
+.CompMath{
+  background-color: darkkhaki;
+}
+
+.UIDesign{
+  background-color: darkgrey;
+}
+
+.IntroDevTool{
+  background-color: yellowgreen;
+}
+
+.WorkSafely{
+  background-color: lightsteelblue;
+}

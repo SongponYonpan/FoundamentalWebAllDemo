@@ -1,0 +1,42 @@
+﻿body {
+    font-family: Verdana,Arial,sans-serif;
+    background-color: #333333;
+    color: #ffffff;
+    font-size: 1.25em;
+}
+table {
+    margin: 1% auto;
+    background-color: #666666;
+    padding: 5%;
+}
+
+th {
+    font-size: 1.5em;
+    background-color: #333;
+}
+
+td {
+    width: 20%;
+    padding: 3%;
+}
+
+table, td, th {
+    border: thin solid #fff;
+}
+
+tr:nth-of-type(even){
+    background-color:#0edbee;
+    color:#000000;
+}
+
+tfoot{
+    background-color:#999999;
+    color: #ffd800;
+    font-weight:900;
+}
+
+.caption {
+    font-size: 2em;
+    color: #ffd800;
+    margin-bottom: 1%;
+}

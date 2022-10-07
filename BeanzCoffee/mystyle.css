@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+  background-color: #F2D7D5;
+}
+
+h1 {
+  color: White;
+	background-color: #641E16;
+}
+
+img {
+  border-radius: 50%;
+
+}
+
+dt, ul, ol {
+  display: block;
+}
+
+footer {
+  padding: 3px;
+  background-color: #641E16;
+  color: white;
+}
